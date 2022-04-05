@@ -1,1 +1,3 @@
 # bookDemo
+
+springMVC + mysql + jsp
