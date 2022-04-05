@@ -1,3 +1,3 @@
 # bookDemo
 
-springMVC + mysql + jsp
+springMVC + mysql + mybatis +jsp
